@@ -50,7 +50,6 @@
                     "logo": null,
                     "url": ""
                 },
-
                 "bankAccount": {
                     "name": "Suraj Ananda Patil",
                     "bank": "Kotak Mahindra Bank",
@@ -59,7 +58,6 @@
                     "type": "Saving",
                     "branch": "Koparkhairne, Navi Mumbai"
                 },
-
                 "about": [
                     "Shreesha Digital is the expert web services and digital marketing services providing company approaches to boost your business online presence.",
                     "Shreesha Digital is a leading professional web design and web development company in Navi Mumbai offering various services such as Web Designing, Web Development, Graphic Design, Softwares, E-commerce Websites services."
@@ -155,43 +153,43 @@
                         "day": "Monday",
                         "openAt": "10:00 AM",
                         "closesAt": "6:00 PM",
-                        "closed": false
+                        "working": true
                     },
                     {
                         "day": "Tuesday",
                         "openAt": "10:00 AM",
                         "closesAt": "6:00 PM",
-                        "closed": false
+                        "working": true
                     },
                     {
                         "day": "Wednesday",
                         "openAt": "10:00 AM",
                         "closesAt": "6:00 PM",
-                        "closed": false
+                        "working": true
                     },
                     {
                         "day": "Thursday",
                         "openAt": "10:00 AM",
                         "closesAt": "6:00 PM",
-                        "closed": false
+                        "working": true
                     },
                     {
                         "day": "Friday",
                         "openAt": "10:00 AM",
                         "closesAt": "6:00 PM",
-                        "closed": false
+                        "working": true
                     },
                     {
                         "day": "Saturday",
                         "openAt": "10:00 AM",
                         "closesAt": "6:00 PM",
-                        "closed": false
+                        "working": true
                     },
                     {
                         "day": "Sunday",
                         "openAt": "10:00 AM",
                         "closesAt": "6:00 PM",
-                        "closed": true
+                        "working": false
                     }
                 ]
             },
@@ -204,6 +202,17 @@
                 "youtube": "https://www.youtube.com/channel/enter_your_id/",
                 "catalogue": "https://wa.me/c/8450959594"
             }
+        }
+    ],
+    "register": [
+        {
+            "name": "Suraj Patil",
+            "email": "suraj.gd89@gmail.com",
+            "mobile": "9594415153",
+            "dob": "1989-12-06",
+            "password": "Pass@1234",
+            "confirmPassword": "Pass@1234",
+            "id": 1
         }
     ]
 }
