@@ -214,5 +214,37 @@
             "confirmPassword": "Pass@1234",
             "id": 1
         }
+    ],
+
+    "userList": [
+        {
+            "id": 1,
+            "name": "Suraj Patil",
+            "businessName": "Shreesha Digital",
+            "email": "suraj.gd89@gmail.com",
+            "mobile": "+919594415153",
+            "userId": "SurajPatil5153",
+            "status": "Active"
+        },
+
+        {
+            "id": 2,
+            "name": "Shubham Patil",
+            "businessName": "Shreesha Digital",
+            "email": "suraj.gd89@gmail.com",
+            "mobile": "+919594415153",
+            "userId": "SurajPatil5153",
+            "status": "Active"
+        },
+
+        {
+            "id": 3,
+            "name": "Kajal Patil",
+            "businessName": "Shreesha Digital",
+            "email": "suraj.gd89@gmail.com",
+            "mobile": "+919594415153",
+            "userId": "SurajPatil5153",
+            "status": "Active"
+        }
     ]
 }
