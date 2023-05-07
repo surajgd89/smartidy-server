@@ -3,7 +3,7 @@
         {
             "id": 1,
             "userId": "SurajPatil5153",
-            "status": true,
+            "status": "",
             "config": {
                 "smartIdyUrl": "https://www.smartdiy.in/home?userId=SurajPatil5153",
                 "language": "en",
@@ -205,16 +205,20 @@
             }
         }
     ],
-
     "register": [
         {
-            "name": "Suraj Patil",
-            "email": "suraj.gd89@gmail.com",
-            "mobile": "9594415153",
+            "email": "abc@gmail.com",
+            "mobile": "8450959594",
             "dob": "1989-12-06",
-            "password": "Pass@1234",
-            "confirmPassword": "Pass@1234",
+            "password": "abcd@1234",
             "id": 1
+        },
+        {
+            "email": "j",
+            "mobile": "95",
+            "dob": "2023-05-04",
+            "password": "n",
+            "id": 2
         }
     ]
 }
