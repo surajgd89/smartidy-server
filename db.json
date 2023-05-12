@@ -1,5 +1,5 @@
 {
-    "users": [
+    "user": [
         {
             "id": 1,
             "userId": "SurajPatil5153",
@@ -203,6 +203,10 @@
                 "youtube": "https://www.youtube.com/channel/enter_your_id/",
                 "catalogue": "https://wa.me/c/8450959594"
             }
+        },
+        {
+            "id": 2,
+            "userId": "SarfarazShaikh4956"
         }
     ],
     "register": [
@@ -212,13 +216,6 @@
             "dob": "1989-12-06",
             "password": "abcd@1234",
             "id": 1
-        },
-        {
-            "email": "j",
-            "mobile": "95",
-            "dob": "2023-05-04",
-            "password": "n",
-            "id": 2
         }
     ]
 }
