@@ -1,21 +1,13 @@
 {
-    "users": [
+    "user": [
         {
             "id": 1,
             "userId": "SurajPatil5153",
             "status": "",
-            "config": {
-                "smartIdyUrl": "https://www.smartdiy.in/home?userId=SurajPatil5153",
-                "language": "en",
-                "isBusinessProfile": true,
-                "isPicTypeCircle": true,
-                "theme": {
-                    "primaryColor": "#ff6600",
-                    "titleColor": "#411f85"
-                }
-            },
+            "password": "abcd@1234",
             "individual": {
                 "name": "Suraj Patil",
+                "dob": "1989-12-06",
                 "experties": "Front-End Developer",
                 "profilePic": null,
                 "call": "+919594415153",
@@ -202,23 +194,17 @@
                 "instagram": "https://www.instagram.com/i_am_suraj.patil/",
                 "youtube": "https://www.youtube.com/channel/enter_your_id/",
                 "catalogue": "https://wa.me/c/8450959594"
+            },
+            "config": {
+                "smartIdyUrl": "https://www.smartdiy.in/home?userId=SurajPatil5153",
+                "language": "en",
+                "isBusinessProfile": true,
+                "isPicTypeCircle": true,
+                "theme": {
+                    "primaryColor": "#ff6600",
+                    "titleColor": "#411f85"
+                }
             }
-        }
-    ],
-    "register": [
-        {
-            "email": "abc@gmail.com",
-            "mobile": "8450959594",
-            "dob": "1989-12-06",
-            "password": "abcd@1234",
-            "id": 1
-        },
-        {
-            "email": "j",
-            "mobile": "95",
-            "dob": "2023-05-04",
-            "password": "n",
-            "id": 2
         }
     ]
 }
