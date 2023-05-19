@@ -66,23 +66,19 @@
                 "eFiles": [
                     {
                         "title": "File 1",
-                        "src": "test1.doc",
-                        "type": "doc"
+                        "url": "https://docs.google.com/file/u/0/"
                     },
                     {
                         "title": "File 2",
-                        "src": "test2.pdf",
-                        "type": "pdf"
+                        "url": "https://docs.google.com/document/u/0/"
                     },
                     {
                         "title": "File 3",
-                        "src": "test3.xls",
-                        "type": "xls"
+                        "url": "https://docs.google.com/spreadsheets/u/0/"
                     },
                     {
                         "title": "File 4",
-                        "src": "test4.ppt",
-                        "type": "ppt"
+                        "url": "https://docs.google.com/presentation/u/0/"
                     }
                 ],
                 "links": [
@@ -106,30 +102,12 @@
                     }
                 ],
                 "gallery": [
-                    {
-                        "title": "Image 1",
-                        "src": "https://loremflickr.com/512/512/nature?random=1"
-                    },
-                    {
-                        "title": "Image 2",
-                        "src": "https://loremflickr.com/512/512/nature?random=2"
-                    },
-                    {
-                        "title": "Image 3",
-                        "src": "https://loremflickr.com/512/512/nature?random=3"
-                    },
-                    {
-                        "title": "Image 4",
-                        "src": "https://loremflickr.com/512/512/nature?random=4"
-                    },
-                    {
-                        "title": "Image 5",
-                        "src": "https://loremflickr.com/512/512/nature?random=5"
-                    },
-                    {
-                        "title": "Image 6",
-                        "src": null
-                    }
+                    "https://loremflickr.com/512/512/nature?random=1",
+                    "https://loremflickr.com/512/512/nature?random=2",
+                    "https://loremflickr.com/512/512/nature?random=3",
+                    "https://loremflickr.com/512/512/nature?random=4",
+                    "https://loremflickr.com/512/512/nature?random=5",
+                    "https://loremflickr.com/512/512/nature?random=6"
                 ],
                 "videos": [
                     {
@@ -138,7 +116,7 @@
                     },
                     {
                         "title": "Video 2",
-                        "url": null
+                        "url": "https://youtu.be/D0UnqGm_miA"
                     }
                 ],
                 "workingDayHrs": [
@@ -184,13 +162,19 @@
                         "closesAt": "6:00 PM",
                         "working": false
                     }
-                ]
+                ],
+                "media": {
+                    "src": "https://loremflickr.com/1000/300/nature?random=3",
+                    "title": "Media Title",
+                    "data": "Shreesha Digital is the expert web services and digital marketing services providing company approaches to boost your business online presence.",
+                    "url": "https://www.smartdiy.in/home?userId=SurajPatil5153"
+                }
             },
             "social": {
                 "facebook": "https://www.facebook.com/suraj.gd89",
                 "twitter": "https://twitter.com/suraj_patil89",
                 "linkedin": "https://www.linkedin.com/in/surajpatil89/",
-                "telegram": null,
+                "telegram": "https://www.linkedin.com/in/surajpatil89/",
                 "instagram": "https://www.instagram.com/i_am_suraj.patil/",
                 "youtube": "https://www.youtube.com/channel/enter_your_id/",
                 "catalogue": "https://wa.me/c/8450959594"
@@ -205,10 +189,6 @@
                     "titleColor": "#411f85"
                 }
             }
-        },
-        {
-            "id": 2,
-            "userId": "SarfarazShaikh4956"
         }
     ]
 }
