@@ -3,7 +3,7 @@
         {
             "id": 1,
             "userId": "SurajPatil5153",
-            "status": "",
+            "status": "A",
             "password": "abcd@1234",
             "individual": {
                 "name": "Suraj Patil",
@@ -189,6 +189,24 @@
                     "titleColor": "#411f85"
                 }
             }
+        },
+        {
+            "password": "$2a$10$igkIOt/jEHwkcYG/EawAye/cFN6fRgZ92HP1j8yRblXQaxhjZuDAW",
+            "individual": {
+                "name": "Kajal Patil",
+                "email": "kajal.gd97@gmail.com",
+                "call": "8693818780"
+            },
+            "id": 2
+        },
+        {
+            "password": "$2a$10$LbqQvKhMWuJ8hOUoKYDq5OQH2s/EpYllqiEpmXLV5HjlgjZM1Mvue",
+            "individual": {
+                "name": "Kajal Kolekar",
+                "email": "kajal.gd973@gmail.com",
+                "call": "8693818780"
+            },
+            "id": 3
         }
     ]
 }
