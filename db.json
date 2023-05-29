@@ -4,7 +4,7 @@
             "id": 1,
             "userId": "SurajPatil5153",
             "status": "A",
-            "password": "abcd@1234",
+            "password": "$2a$10$YK82WsHoreTmXnEo8I.4.OvQSweTez7xeFhwJfkd4X4phn4R7GDlW",
             "individual": {
                 "name": "Suraj Patil",
                 "dob": "1989-12-06",
@@ -191,22 +191,13 @@
             }
         },
         {
-            "password": "$2a$10$igkIOt/jEHwkcYG/EawAye/cFN6fRgZ92HP1j8yRblXQaxhjZuDAW",
+            "password": "$2a$10$JeisF3OAXVJPZ1ERpfhu/.VNgzUjjtLlh2FIH.AnSn9PXCV9nqRIG",
             "individual": {
-                "name": "Kajal Patil",
-                "email": "kajal.gd97@gmail.com",
-                "call": "8693818780"
+                "name": "Rohit Pandey",
+                "email": "rohit@gmail.com",
+                "call": "9594415153"
             },
             "id": 2
-        },
-        {
-            "password": "$2a$10$LbqQvKhMWuJ8hOUoKYDq5OQH2s/EpYllqiEpmXLV5HjlgjZM1Mvue",
-            "individual": {
-                "name": "Kajal Kolekar",
-                "email": "kajal.gd973@gmail.com",
-                "call": "8693818780"
-            },
-            "id": 3
         }
     ]
 }
