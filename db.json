@@ -1,203 +1,205 @@
 {
-    "user": [
-        {
-            "id": 1,
-            "userId": "SurajPatil5153",
-            "status": "A",
-            "password": "$2a$10$YK82WsHoreTmXnEo8I.4.OvQSweTez7xeFhwJfkd4X4phn4R7GDlW",
-            "individual": {
-                "name": "Suraj Patil",
-                "dob": "1989-12-06",
-                "experties": "Front-End Developer",
-                "profilePic": null,
-                "call": "+919594415153",
-                "email": "suraj.gd89@gmail.com",
-                "sms": "+919594415153",
-                "chat": [
-                    {
-                        "title": "WhatsApp",
-                        "value": "9594415153"
-                    },
-                    {
-                        "title": "Telegram",
-                        "value": "@surajpatil89"
-                    }
-                ]
-            },
-            "business": {
-                "name": "Shreesha Digital",
-                "logo": null,
-                "estDate": "2018/11/10",
-                "call": "+918450959594",
-                "sms": "+918450959594",
-                "email": "mail.shreeshadigital@gmail.com",
-                "designation": "Founder",
-                "gstin": "123456789ABCDEFG001",
-                "msme": "123456789ABCDEFG002",
-                "fssai": "123456789ABCDEFG",
-                "address": "Meghmalhar CHS, Flat No. 302, Building No. L-10, 3rd Floor, Sector 10, Ghansoli, Navi Mumbai - 400 701",
-                "mapUrl": "https://goo.gl/maps/4MegsAosb3AyXCc67",
-                "website": "https://www.shreeshadigital.com",
-                "upiId": "suraj.gd89@okaxis",
-                "paymentGateway": {
-                    "logo": null,
-                    "url": ""
-                },
-                "bankAccount": {
-                    "name": "Suraj Ananda Patil",
-                    "bank": "Kotak Mahindra Bank",
-                    "number": "3911366814",
-                    "ifsc": "KKBK0000670",
-                    "type": "Saving",
-                    "branch": "Koparkhairne, Navi Mumbai"
-                },
-                "about": [
-                    "Shreesha Digital is the expert web services and digital marketing services providing company approaches to boost your business online presence.",
-                    "Shreesha Digital is a leading professional web design and web development company in Navi Mumbai offering various services such as Web Designing, Web Development, Graphic Design, Softwares, E-commerce Websites services."
-                ],
-                "services": [
-                    "Logo Design",
-                    "Web Designing",
-                    "Web Development",
-                    "Graphic Design",
-                    "Business SmartIDy",
-                    "Print Media"
-                ],
-                "eFiles": [
-                    {
-                        "title": "File 1",
-                        "url": "https://docs.google.com/file/u/0/"
-                    },
-                    {
-                        "title": "File 2",
-                        "url": "https://docs.google.com/document/u/0/"
-                    },
-                    {
-                        "title": "File 3",
-                        "url": "https://docs.google.com/spreadsheets/u/0/"
-                    },
-                    {
-                        "title": "File 4",
-                        "url": "https://docs.google.com/presentation/u/0/"
-                    }
-                ],
-                "links": [
-                    {
-                        "title": "Website",
-                        "url": "https://www.shreeshadigital.com"
-                    },
-                    {
-                        "title": "ePortfolio",
-                        "url": "https://www.shreeshadigital.com"
-                    }
-                ],
-                "chat": [
-                    {
-                        "title": "WhatsApp",
-                        "value": "8450959594"
-                    },
-                    {
-                        "title": "Telegram",
-                        "value": "@surajpatil89"
-                    }
-                ],
-                "gallery": [
-                    "https://loremflickr.com/512/512/nature?random=1",
-                    "https://loremflickr.com/512/512/nature?random=2",
-                    "https://loremflickr.com/512/512/nature?random=3",
-                    "https://loremflickr.com/512/512/nature?random=4",
-                    "https://loremflickr.com/512/512/nature?random=5",
-                    "https://loremflickr.com/512/512/nature?random=6"
-                ],
-                "videos": [
-                    {
-                        "title": "Video 1",
-                        "url": "https://youtu.be/D0UnqGm_miA"
-                    },
-                    {
-                        "title": "Video 2",
-                        "url": "https://youtu.be/D0UnqGm_miA"
-                    }
-                ],
-                "workingDayHrs": [
-                    {
-                        "day": "Monday",
-                        "openAt": "10:00 AM",
-                        "closesAt": "6:00 PM",
-                        "working": true
-                    },
-                    {
-                        "day": "Tuesday",
-                        "openAt": "10:00 AM",
-                        "closesAt": "6:00 PM",
-                        "working": true
-                    },
-                    {
-                        "day": "Wednesday",
-                        "openAt": "10:00 AM",
-                        "closesAt": "6:00 PM",
-                        "working": true
-                    },
-                    {
-                        "day": "Thursday",
-                        "openAt": "10:00 AM",
-                        "closesAt": "6:00 PM",
-                        "working": true
-                    },
-                    {
-                        "day": "Friday",
-                        "openAt": "10:00 AM",
-                        "closesAt": "6:00 PM",
-                        "working": true
-                    },
-                    {
-                        "day": "Saturday",
-                        "openAt": "10:00 AM",
-                        "closesAt": "6:00 PM",
-                        "working": true
-                    },
-                    {
-                        "day": "Sunday",
-                        "openAt": "10:00 AM",
-                        "closesAt": "6:00 PM",
-                        "working": false
-                    }
-                ],
-                "media": {
-                    "src": "https://loremflickr.com/1000/300/nature?random=3",
-                    "title": "Media Title",
-                    "data": "Shreesha Digital is the expert web services and digital marketing services providing company approaches to boost your business online presence.",
-                    "url": "https://www.smartdiy.in/home?userId=SurajPatil5153"
-                }
-            },
-            "social": {
-                "facebook": "https://www.facebook.com/suraj.gd89",
-                "twitter": "https://twitter.com/suraj_patil89",
-                "linkedin": "https://www.linkedin.com/in/surajpatil89/",
-                "telegram": "https://www.linkedin.com/in/surajpatil89/",
-                "instagram": "https://www.instagram.com/i_am_suraj.patil/",
-                "youtube": "https://www.youtube.com/channel/enter_your_id/",
-                "catalogue": "https://wa.me/c/8450959594"
-            },
-            "config": {
-                "smartIdyUrl": "https://www.smartdiy.in/home?userId=SurajPatil5153",
-                "language": "en",
-                "isBusinessProfile": true,
-                "isPicTypeCircle": true,
-                "theme": {
-                    "primaryColor": "#ff6600",
-                    "titleColor": "#411f85"
-                }
-            }
+  "user": [
+    {
+      "id": 1,
+      "userId": "SurajPatil5153",
+      "isLoggedIn": false,
+      "status": "A",
+      "password": "$2a$10$YK82WsHoreTmXnEo8I.4.OvQSweTez7xeFhwJfkd4X4phn4R7GDlW",
+      "individual": {
+        "name": "Suraj Patil",
+        "dob": "1989-12-06",
+        "experties": "Front-End Developer",
+        "profilePic": null,
+        "call": "+919594415153",
+        "email": "suraj.gd89@gmail.com",
+        "sms": "+919594415153",
+        "chat": [
+          {
+            "title": "WhatsApp",
+            "value": "9594415153"
+          },
+          {
+            "title": "Telegram",
+            "value": "@surajpatil89"
+          }
+        ]
+      },
+      "business": {
+        "name": "Shreesha Digital",
+        "logo": null,
+        "estDate": "2018/11/10",
+        "call": "+918450959594",
+        "sms": "+918450959594",
+        "email": "mail.shreeshadigital@gmail.com",
+        "designation": "Founder",
+        "gstin": "123456789ABCDEFG001",
+        "msme": "123456789ABCDEFG002",
+        "fssai": "123456789ABCDEFG",
+        "address": "Meghmalhar CHS, Flat No. 302, Building No. L-10, 3rd Floor, Sector 10, Ghansoli, Navi Mumbai - 400 701",
+        "mapUrl": "https://goo.gl/maps/4MegsAosb3AyXCc67",
+        "website": "https://www.shreeshadigital.com",
+        "upiId": "suraj.gd89@okaxis",
+        "paymentGateway": {
+          "logo": null,
+          "url": ""
         },
-        {
-            "password": "$2a$10$JeisF3OAXVJPZ1ERpfhu/.VNgzUjjtLlh2FIH.AnSn9PXCV9nqRIG",
-            "individual": {
-                "name": "Rohit Pandey",
-                "email": "rohit@gmail.com",
-                "call": "9594415153"
-            },
-            "id": 2
+        "bankAccount": {
+          "name": "Suraj Ananda Patil",
+          "bank": "Kotak Mahindra Bank",
+          "number": "3911366814",
+          "ifsc": "KKBK0000670",
+          "type": "Saving",
+          "branch": "Koparkhairne, Navi Mumbai"
+        },
+        "about": [
+          "Shreesha Digital is the expert web services and digital marketing services providing company approaches to boost your business online presence.",
+          "Shreesha Digital is a leading professional web design and web development company in Navi Mumbai offering various services such as Web Designing, Web Development, Graphic Design, Softwares, E-commerce Websites services."
+        ],
+        "services": [
+          "Logo Design",
+          "Web Designing",
+          "Web Development",
+          "Graphic Design",
+          "Business SmartIDy",
+          "Print Media"
+        ],
+        "eFiles": [
+          {
+            "title": "File 1",
+            "url": "https://docs.google.com/file/u/0/"
+          },
+          {
+            "title": "File 2",
+            "url": "https://docs.google.com/document/u/0/"
+          },
+          {
+            "title": "File 3",
+            "url": "https://docs.google.com/spreadsheets/u/0/"
+          },
+          {
+            "title": "File 4",
+            "url": "https://docs.google.com/presentation/u/0/"
+          }
+        ],
+        "links": [
+          {
+            "title": "Website",
+            "url": "https://www.shreeshadigital.com"
+          },
+          {
+            "title": "ePortfolio",
+            "url": "https://www.shreeshadigital.com"
+          }
+        ],
+        "chat": [
+          {
+            "title": "WhatsApp",
+            "value": "8450959594"
+          },
+          {
+            "title": "Telegram",
+            "value": "@surajpatil89"
+          }
+        ],
+        "gallery": [
+          "https://loremflickr.com/512/512/nature?random=1",
+          "https://loremflickr.com/512/512/nature?random=2",
+          "https://loremflickr.com/512/512/nature?random=3",
+          "https://loremflickr.com/512/512/nature?random=4",
+          "https://loremflickr.com/512/512/nature?random=5",
+          "https://loremflickr.com/512/512/nature?random=6"
+        ],
+        "videos": [
+          {
+            "title": "Video 1",
+            "url": "https://youtu.be/D0UnqGm_miA"
+          },
+          {
+            "title": "Video 2",
+            "url": "https://youtu.be/D0UnqGm_miA"
+          }
+        ],
+        "workingDayHrs": [
+          {
+            "day": "Monday",
+            "openAt": "10:00 AM",
+            "closesAt": "6:00 PM",
+            "working": true
+          },
+          {
+            "day": "Tuesday",
+            "openAt": "10:00 AM",
+            "closesAt": "6:00 PM",
+            "working": true
+          },
+          {
+            "day": "Wednesday",
+            "openAt": "10:00 AM",
+            "closesAt": "6:00 PM",
+            "working": true
+          },
+          {
+            "day": "Thursday",
+            "openAt": "10:00 AM",
+            "closesAt": "6:00 PM",
+            "working": true
+          },
+          {
+            "day": "Friday",
+            "openAt": "10:00 AM",
+            "closesAt": "6:00 PM",
+            "working": true
+          },
+          {
+            "day": "Saturday",
+            "openAt": "10:00 AM",
+            "closesAt": "6:00 PM",
+            "working": true
+          },
+          {
+            "day": "Sunday",
+            "openAt": "10:00 AM",
+            "closesAt": "6:00 PM",
+            "working": false
+          }
+        ],
+        "media": {
+          "src": "https://loremflickr.com/1000/300/nature?random=3",
+          "title": "Media Title",
+          "data": "Shreesha Digital is the expert web services and digital marketing services providing company approaches to boost your business online presence.",
+          "url": "https://www.smartdiy.in/home?userId=SurajPatil5153"
         }
-    ]
+      },
+      "social": {
+        "facebook": "https://www.facebook.com/suraj.gd89",
+        "twitter": "https://twitter.com/suraj_patil89",
+        "linkedin": "https://www.linkedin.com/in/surajpatil89/",
+        "telegram": "https://www.linkedin.com/in/surajpatil89/",
+        "instagram": "https://www.instagram.com/i_am_suraj.patil/",
+        "youtube": "https://www.youtube.com/channel/enter_your_id/",
+        "catalogue": "https://wa.me/c/8450959594"
+      },
+      "config": {
+        "smartIdyUrl": "https://www.smartdiy.in/home?userId=SurajPatil5153",
+        "language": "en",
+        "isBusinessProfile": true,
+        "isPicTypeCircle": true,
+        "theme": {
+          "primaryColor": "#ff6600",
+          "titleColor": "#411f85"
+        }
+      }
+    },
+    {
+      "password": "$2a$10$JeisF3OAXVJPZ1ERpfhu/.VNgzUjjtLlh2FIH.AnSn9PXCV9nqRIG",
+      "individual": {
+        "name": "Rohit Pandey",
+        "email": "rohit@gmail.com",
+        "call": "9594415153"
+      },
+      "id": 2,
+      "isLoggedIn": true
+    }
+  ]
 }
